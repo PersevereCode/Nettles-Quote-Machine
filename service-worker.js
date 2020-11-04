@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nettles-Quote-Machine/precache-manifest.95452f00ca386a89e5b6facc4faeee9a.js"
+  "/Nettles-Quote-Machine/precache-manifest.32d5b3f7d0edb678afaa0caa67bfc6f7.js"
 );
 
 self.addEventListener('message', (event) => {
